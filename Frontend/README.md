@@ -6,7 +6,7 @@ En esta sección se ubicaran los archivos que respalda los archivos que suaran p
 
 
 >Integradora-NombreProyecto_Asesoria <br>
-**| -Documentación** <br>
+>| -Documentación <br>
 >| -Frontend <br>
 >| -Backend <br>
 >| -FrontEnd
