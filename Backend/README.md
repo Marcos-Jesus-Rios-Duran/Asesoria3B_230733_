@@ -19,7 +19,7 @@
 |-----------|------|--------|-------------|
 |Lorena Citlalli Galindo|[@Lore-Galindo](https://github.com/Lore-Galindo)|Lider de Backend|✔ Revisado y aprobado|
 |Marco Jesus Rios Duran|[@Marco-Jesus-Rios-Duran](https://github.com/Marco-Jesus-Rios-Duran)|Lider de documentación |✅ Aprobado|
-|Antonio Ocpaco Dolores|[@ANTONIOOCPACODOLORES](https://github.com/ANTONIOOCPACODOLORES)|Lider de FronEnd| 😔 No ha revisado |
+|Juvenal Viveros Martinez|[@Juvenal-Viveros](https://github.com/Juvenal-Viveros)|Lider de FronEnd| 😔 No ha revisado |
 
 
 
